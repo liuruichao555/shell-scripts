@@ -1,2 +1,2 @@
 # shell-scripts
-    1. shell 脚本
+    1. 常用shell 脚本
